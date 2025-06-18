@@ -1,0 +1,31 @@
+PatientID,AdmissionID,PrimaryDiagnosisICD10Code,PrimaryDiagnosisDescription
+7A025E77-7832-4F53-B9A7-09A3F98AC17E,7,F06.3,Mood disorder due to known physiological condition
+DDC0BC57-7A4E-4E02-9282-177750B74FBC,2,B95.62,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere
+E250799D-F6DE-4914-ADB4-B08A6E5029B9,4,F21,Schizotypal disorder
+1A40AF35-C6D4-4D46-B475-A15D84E8A9D5,1,F11,Opioid related disorders
+DA6CECFF-DE13-4C4C-919F-64E1A2B76C9D,4,Z22.31,Carrier of bacterial disease due to meningococci
+0A9BA3E4-CF3C-49C4-9774-5EEA2EE7D123,2,K76.5,Hepatic veno-occlusive disease
+DB92CDC6-FA9B-4492-BC2C-0C588AD78956,1,H75.01,Mastoiditis in infectious and parasitic diseases classified elsewhere right ear
+25B786AF-0F99-478C-9CFA-0EA607E45834,6,Z22.31,Carrier of bacterial disease due to meningococci
+81C5B13B-F6B2-4E57-9593-6E7E4C13B2CE,6,E79,Disorders of purine and pyrimidine metabolism
+220C8D43-1322-4A9D-B890-D426942A3649,2,M72,Fibroblastic disorders
+69B5D2A0-12FD-46EF-A5FF-B29C4BAFBE49,5,I25.75,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris
+9BBF3A51-443D-438B-9289-B98B8E0577C0,2,E11.32,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy
+7548B6CF-79D9-461D-A0C5-20B861406FAC,3,M05.511,Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder
+80D356B4-F974-441F-A5F2-F95986D119A2,4,J66.1,Flax-dressers' disease
+80D356B4-F974-441F-A5F2-F95986D119A2,6,M05.561,Rheumatoid polyneuropathy with rheumatoid arthritis of right knee
+3B11D6B3-A36A-4B69-A437-C29BF425A941,1,I79.0,Aneurysm of aorta in diseases classified elsewhere
+FE0B9B59-1927-45B7-8556-E079DC1DE30A,3,C75.3,Malignant neoplasm of pineal gland
+98F593D2-8894-49BB-93B9-5A0E2CF85E2E,3,F52.3,Orgasmic disorder
+98F593D2-8894-49BB-93B9-5A0E2CF85E2E,5,M06.2,Rheumatoid bursitis
+2A5251B1-0945-47FA-A65C-7A6381562591,2,F16.151,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations
+135C831F-7DA5-46C0-959C-EBCBD8810B43,4,M90.632,Osteitis deformans in neoplastic diseases left forearm
+6623F5D6-D581-4268-9F9B-21612FBBF7B5,4,M02.352,Reiter's disease left hip
+FB2ABB23-C9D0-4D09-8464-49BF0B982F0F,1,M05.272,Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot
+C8556CC0-32FC-4CA5-A8CD-9CCF38816167,4,K50.813,Crohn's disease of both small and large intestine with fistula
+B39DC5AC-E003-4E6A-91B6-FC07625A1285,4,F11,Opioid related disorders
+FA157FA5-F488-4884-BF87-E144630D595C,2,M06.34,Rheumatoid nodule hand
+868E700E-3C56-458F-A477-078D671DCB20,2,B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]
+714823AF-C52C-414C-B53B-C43EACD194C3,1,K08.121,Complete loss of teeth due to periodontal diseases class I
+36775002-9EC3-4889-AD4F-80DC6855C8D8,3,C79.02,Secondary malignant neoplasm of left kidney and renal pelvis
+C65A4ADE-112E-49E4-B72A-0DED22C242ED,1,M05.27,Rheumatoid vasculitis with rheumatoid arthritis of ankle and foot

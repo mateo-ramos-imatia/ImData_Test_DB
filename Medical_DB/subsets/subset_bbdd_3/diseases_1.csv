@@ -1,0 +1,306 @@
+Disease Name,Disease Category,Treatment Type
+Malaria,Respiratory,Medication
+Ebola,Parasitic,Surgery
+COVID-19,Genetic,Vaccination
+Parkinson's Disease,Autoimmune,Surgery
+Tuberculosis,Genetic,Medication
+Dengue,Bacterial,Therapy
+Malaria,Cardiovascular,Surgery
+Tuberculosis,Neurological,Medication
+Rabies,Chronic,Therapy
+Cholera,Chronic,Medication
+Leprosy,Cardiovascular,Surgery
+Cancer,Metabolic,Vaccination
+Diabetes,Infectious,Therapy
+Measles,Bacterial,Therapy
+Zika,Parasitic,Therapy
+Dengue,Viral,Medication
+Leprosy,Parasitic,Vaccination
+Alzheimer's Disease,Bacterial,Surgery
+Polio,Respiratory,Medication
+Hypertension,Cardiovascular,Vaccination
+Leprosy,Respiratory,Vaccination
+Ebola,Neurological,Surgery
+Malaria,Bacterial,Therapy
+Diabetes,Autoimmune,Surgery
+Asthma,Metabolic,Therapy
+Diabetes,Genetic,Surgery
+Tuberculosis,Neurological,Therapy
+Measles,Neurological,Therapy
+Rabies,Neurological,Surgery
+Zika,Neurological,Vaccination
+Alzheimer's Disease,Respiratory,Vaccination
+Cancer,Parasitic,Therapy
+Malaria,Autoimmune,Medication
+Parkinson's Disease,Viral,Medication
+COVID-19,Bacterial,Vaccination
+Parkinson's Disease,Neurological,Surgery
+Diabetes,Metabolic,Medication
+Malaria,Cardiovascular,Vaccination
+HIV/AIDS,Cardiovascular,Surgery
+Malaria,Metabolic,Vaccination
+Tuberculosis,Respiratory,Therapy
+Dengue,Neurological,Therapy
+Rabies,Bacterial,Therapy
+Measles,Chronic,Vaccination
+Cancer,Metabolic,Medication
+Alzheimer's Disease,Neurological,Surgery
+HIV/AIDS,Autoimmune,Vaccination
+Malaria,Chronic,Medication
+Alzheimer's Disease,Infectious,Therapy
+Hypertension,Metabolic,Medication
+Alzheimer's Disease,Bacterial,Medication
+Measles,Neurological,Vaccination
+Zika,Metabolic,Vaccination
+Cholera,Infectious,Therapy
+Cancer,Parasitic,Medication
+Ebola,Chronic,Surgery
+Dengue,Autoimmune,Vaccination
+Dengue,Chronic,Therapy
+Measles,Parasitic,Vaccination
+Leprosy,Bacterial,Therapy
+Polio,Cardiovascular,Vaccination
+Tuberculosis,Genetic,Medication
+Ebola,Metabolic,Medication
+Influenza,Respiratory,Medication
+Diabetes,Cardiovascular,Therapy
+Asthma,Metabolic,Surgery
+HIV/AIDS,Neurological,Medication
+Ebola,Autoimmune,Surgery
+Alzheimer's Disease,Genetic,Therapy
+Measles,Genetic,Surgery
+Hepatitis,Neurological,Therapy
+Measles,Infectious,Surgery
+Hepatitis,Respiratory,Therapy
+Diabetes,Chronic,Surgery
+Cholera,Chronic,Therapy
+HIV/AIDS,Metabolic,Vaccination
+Polio,Cardiovascular,Medication
+Ebola,Genetic,Medication
+Parkinson's Disease,Parasitic,Surgery
+Diabetes,Genetic,Therapy
+Zika,Cardiovascular,Medication
+Zika,Cardiovascular,Vaccination
+Influenza,Neurological,Medication
+Polio,Metabolic,Medication
+Asthma,Respiratory,Surgery
+Polio,Genetic,Vaccination
+Hepatitis,Metabolic,Surgery
+COVID-19,Respiratory,Surgery
+Cancer,Bacterial,Vaccination
+Polio,Infectious,Medication
+Cancer,Cardiovascular,Therapy
+Cholera,Respiratory,Therapy
+Polio,Bacterial,Vaccination
+Dengue,Viral,Therapy
+Influenza,Metabolic,Therapy
+Malaria,Genetic,Surgery
+Malaria,Parasitic,Vaccination
+Cancer,Viral,Medication
+Rabies,Autoimmune,Therapy
+Asthma,Chronic,Therapy
+Leprosy,Autoimmune,Medication
+Diabetes,Autoimmune,Vaccination
+Parkinson's Disease,Bacterial,Therapy
+Dengue,Parasitic,Therapy
+Malaria,Genetic,Medication
+Hypertension,Respiratory,Medication
+COVID-19,Genetic,Therapy
+Alzheimer's Disease,Metabolic,Vaccination
+Ebola,Chronic,Vaccination
+Malaria,Chronic,Surgery
+Cancer,Genetic,Vaccination
+Hepatitis,Metabolic,Surgery
+Measles,Cardiovascular,Vaccination
+Tuberculosis,Metabolic,Surgery
+Dengue,Bacterial,Therapy
+Cholera,Genetic,Surgery
+Ebola,Autoimmune,Medication
+Dengue,Parasitic,Surgery
+Leprosy,Parasitic,Surgery
+Diabetes,Respiratory,Medication
+Diabetes,Parasitic,Surgery
+Hepatitis,Bacterial,Surgery
+Polio,Cardiovascular,Therapy
+Parkinson's Disease,Bacterial,Vaccination
+Zika,Parasitic,Medication
+Leprosy,Parasitic,Medication
+Tuberculosis,Neurological,Therapy
+Influenza,Cardiovascular,Surgery
+Polio,Neurological,Therapy
+Alzheimer's Disease,Cardiovascular,Vaccination
+Malaria,Cardiovascular,Therapy
+Polio,Viral,Therapy
+Malaria,Neurological,Medication
+Ebola,Respiratory,Medication
+Zika,Metabolic,Therapy
+Measles,Genetic,Vaccination
+Rabies,Autoimmune,Therapy
+Diabetes,Parasitic,Surgery
+Rabies,Viral,Medication
+Influenza,Cardiovascular,Surgery
+Parkinson's Disease,Metabolic,Therapy
+Dengue,Metabolic,Medication
+Diabetes,Genetic,Therapy
+Rabies,Chronic,Therapy
+Parkinson's Disease,Autoimmune,Therapy
+Diabetes,Cardiovascular,Medication
+Polio,Parasitic,Therapy
+Hypertension,Autoimmune,Medication
+HIV/AIDS,Parasitic,Vaccination
+Influenza,Neurological,Medication
+Ebola,Genetic,Surgery
+Rabies,Autoimmune,Surgery
+COVID-19,Bacterial,Surgery
+Ebola,Bacterial,Therapy
+Rabies,Chronic,Therapy
+Alzheimer's Disease,Chronic,Surgery
+Dengue,Parasitic,Therapy
+Asthma,Neurological,Medication
+Alzheimer's Disease,Bacterial,Vaccination
+Dengue,Autoimmune,Medication
+COVID-19,Genetic,Vaccination
+Asthma,Bacterial,Therapy
+Leprosy,Respiratory,Medication
+Zika,Bacterial,Medication
+Zika,Chronic,Surgery
+Cholera,Neurological,Therapy
+HIV/AIDS,Bacterial,Surgery
+Measles,Genetic,Medication
+Hypertension,Respiratory,Vaccination
+Rabies,Autoimmune,Therapy
+COVID-19,Autoimmune,Surgery
+Cancer,Autoimmune,Surgery
+HIV/AIDS,Respiratory,Surgery
+Ebola,Infectious,Surgery
+Diabetes,Bacterial,Vaccination
+Rabies,Chronic,Vaccination
+Ebola,Parasitic,Medication
+Asthma,Respiratory,Surgery
+Zika,Infectious,Surgery
+Hypertension,Cardiovascular,Surgery
+Tuberculosis,Chronic,Surgery
+Parkinson's Disease,Respiratory,Therapy
+Polio,Chronic,Vaccination
+Hepatitis,Genetic,Surgery
+Influenza,Chronic,Surgery
+Ebola,Neurological,Surgery
+Tuberculosis,Autoimmune,Therapy
+Cancer,Neurological,Medication
+Alzheimer's Disease,Infectious,Surgery
+Parkinson's Disease,Genetic,Vaccination
+Influenza,Neurological,Surgery
+Zika,Parasitic,Medication
+Asthma,Metabolic,Surgery
+Leprosy,Infectious,Therapy
+Zika,Respiratory,Vaccination
+Malaria,Neurological,Surgery
+Parkinson's Disease,Chronic,Medication
+Dengue,Genetic,Vaccination
+Zika,Metabolic,Surgery
+Parkinson's Disease,Metabolic,Surgery
+Zika,Respiratory,Therapy
+Parkinson's Disease,Neurological,Medication
+Ebola,Neurological,Surgery
+Cholera,Viral,Medication
+Dengue,Autoimmune,Medication
+Rabies,Bacterial,Therapy
+Measles,Viral,Surgery
+Rabies,Metabolic,Vaccination
+Zika,Chronic,Medication
+Leprosy,Viral,Therapy
+Alzheimer's Disease,Chronic,Vaccination
+Tuberculosis,Neurological,Therapy
+COVID-19,Genetic,Medication
+Influenza,Chronic,Therapy
+COVID-19,Bacterial,Medication
+Cancer,Metabolic,Therapy
+HIV/AIDS,Autoimmune,Surgery
+Measles,Genetic,Therapy
+Influenza,Viral,Therapy
+Polio,Cardiovascular,Medication
+Cholera,Neurological,Surgery
+Cholera,Neurological,Vaccination
+Leprosy,Respiratory,Vaccination
+Malaria,Metabolic,Surgery
+Hepatitis,Bacterial,Surgery
+Leprosy,Metabolic,Medication
+Influenza,Respiratory,Vaccination
+Polio,Metabolic,Medication
+Asthma,Genetic,Vaccination
+Dengue,Viral,Medication
+Hypertension,Metabolic,Vaccination
+Leprosy,Cardiovascular,Medication
+Rabies,Viral,Vaccination
+Leprosy,Infectious,Vaccination
+Cholera,Neurological,Surgery
+Ebola,Neurological,Therapy
+Leprosy,Bacterial,Therapy
+COVID-19,Cardiovascular,Therapy
+Hypertension,Chronic,Therapy
+Hypertension,Infectious,Surgery
+Parkinson's Disease,Bacterial,Vaccination
+Alzheimer's Disease,Autoimmune,Vaccination
+Cholera,Bacterial,Medication
+Alzheimer's Disease,Autoimmune,Vaccination
+Dengue,Metabolic,Vaccination
+HIV/AIDS,Parasitic,Therapy
+Leprosy,Genetic,Therapy
+Measles,Respiratory,Medication
+Polio,Parasitic,Therapy
+HIV/AIDS,Autoimmune,Medication
+Ebola,Respiratory,Vaccination
+Rabies,Bacterial,Surgery
+Measles,Bacterial,Surgery
+HIV/AIDS,Viral,Surgery
+Rabies,Neurological,Surgery
+Leprosy,Neurological,Vaccination
+Hepatitis,Genetic,Therapy
+Rabies,Infectious,Surgery
+Malaria,Respiratory,Surgery
+Malaria,Autoimmune,Therapy
+Hepatitis,Cardiovascular,Surgery
+Rabies,Chronic,Vaccination
+Zika,Parasitic,Surgery
+Ebola,Respiratory,Therapy
+Polio,Neurological,Surgery
+Cancer,Respiratory,Therapy
+Hypertension,Genetic,Therapy
+Influenza,Parasitic,Surgery
+Hypertension,Genetic,Medication
+Asthma,Genetic,Medication
+Zika,Respiratory,Surgery
+Malaria,Respiratory,Medication
+Asthma,Respiratory,Medication
+Leprosy,Autoimmune,Therapy
+Alzheimer's Disease,Genetic,Surgery
+Alzheimer's Disease,Metabolic,Therapy
+Rabies,Genetic,Medication
+HIV/AIDS,Chronic,Vaccination
+Asthma,Parasitic,Medication
+Cancer,Parasitic,Therapy
+Alzheimer's Disease,Autoimmune,Medication
+Influenza,Respiratory,Vaccination
+Rabies,Neurological,Surgery
+Ebola,Neurological,Vaccination
+Ebola,Cardiovascular,Vaccination
+COVID-19,Bacterial,Medication
+Diabetes,Chronic,Medication
+Malaria,Respiratory,Surgery
+Hepatitis,Viral,Therapy
+Hepatitis,Genetic,Therapy
+Dengue,Genetic,Surgery
+Leprosy,Bacterial,Therapy
+Polio,Parasitic,Therapy
+Parkinson's Disease,Viral,Surgery
+Leprosy,Viral,Surgery
+Leprosy,Respiratory,Medication
+Hepatitis,Metabolic,Surgery
+Diabetes,Viral,Medication
+Polio,Parasitic,Therapy
+Asthma,Infectious,Therapy
+Dengue,Parasitic,Therapy
+Hypertension,Viral,Vaccination
+Parkinson's Disease,Cardiovascular,Vaccination
+Leprosy,Infectious,Therapy
+Zika,Neurological,Vaccination

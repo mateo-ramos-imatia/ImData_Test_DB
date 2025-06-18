@@ -1,0 +1,12 @@
+PatientID,AdmissionID,PrimaryDiagnosisICD10Code,PrimaryDiagnosisDescription
+7A025E77-7832-4F53-B9A7-09A3F98AC17E,3,E10.43,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy
+0E0EADE8-5592-4E0B-9F88-D7596E32EE08,3,M84.51,Pathological fracture in neoplastic disease shoulder
+66154E24-D3EE-4311-89DB-6195278F9B3C,1,O99.41,Diseases of the circulatory system complicating pregnancy
+C54B5AAD-98E8-472D-BAA0-638D9F3BD024,1,N49.2,Inflammatory disorders of scrotum
+F00C64F8-2033-4640-80FE-F1F62CBE26A5,2,C40.81,Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb
+B3892204-880B-40EF-B3BB-B824B50E99E5,1,C88.3,Immunoproliferative small intestinal disease
+B5D31F01-7273-4901-B56F-8139769A11EF,1,B40.1,Chronic pulmonary blastomycosis
+C5D09468-574F-4802-B56F-DB38F4EB1687,4,H47.0,Disorders of optic nerve not elsewhere classified
+2A5251B1-0945-47FA-A65C-7A6381562591,3,M05.23,Rheumatoid vasculitis with rheumatoid arthritis of wrist
+C60FE675-CA52-4C55-A233-F4B27E94987F,1,D16.2,Benign neoplasm of long bones of lower limb
+3231F930-2978-4F50-8234-755449851E7B,2,Z49,Encounter for care involving renal dialysis
